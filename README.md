@@ -1,0 +1,2 @@
+# kenaikan-kepangkatan-pegawai
+Berbasis Desktop java dan SQL. Aplikasi kenaikan pangkat untuk kelurahan maupun di kantor dan memiliki fitur notifikasi bahwa sudah waktunya naik pangkat, dari sisi pengguna terdafat fitur upload berkas yang diperlukan untuk naik pangkat dan sisi admin terdapat fitur untuk mengecek apakah berkarnya sudah benar dan bisa update status dari progres kenaikan pangkat pegawai.
